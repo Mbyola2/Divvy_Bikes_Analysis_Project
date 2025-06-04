@@ -56,7 +56,7 @@ This project leverages Divvy BikeShare trip data to conduct a comprehensive anal
 * **Full Data Analysis Workbook (Microsoft Excel .xlsx):**
     * Contains all raw data, detailed pivot tables, interactive charts, and behind-the-scenes calculations.
     * **Size:** ~180MB.
-    * **Access:** [Download Divvy Bike Share Analysis Workbook (.xlsx)](YOUR_GOOGLE_DRIVE_SHAREABLE_LINK_HERE)
+    * **Access:** [Download Divvy Bike Share Analysis Workbook (.xlsx)](https://docs.google.com/spreadsheets/d/1w5MpDWtkH3bndmDN2HgLajPrI9w2YhJg/edit?usp=sharing&ouid=102853951415568760346&rtpof=true&sd=true)
     * *Note: This file is hosted externally on Google Drive due to GitHub's file size limitations for direct repository uploads, ensuring optimal performance and accessibility.*
 
 * **Comprehensive Project Report (Microsoft Word .docx):**
