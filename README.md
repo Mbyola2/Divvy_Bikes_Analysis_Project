@@ -18,7 +18,8 @@ This project leverages Divvy BikeShare trip data to conduct a comprehensive anal
 ## 💡 Executive Summary & Key Insights
 
 
-1.  **Members Drive Volume, Casuals Drive Seasonal Peaks:**
+1.  **Who takes the most frequent trips?![image](https://github.com/user-attachments/assets/f58e3619-02df-456b-9954-a8c88aa4cb05)
+:**
     * Members consistently account for **~63%** of all rides, forming the core user base.
     * Casual riders demonstrate extreme seasonality, with usage **surging dramatically in summer months (e.g., July/August)** and dropping significantly in winter.
    
@@ -26,7 +27,6 @@ This project leverages Divvy BikeShare trip data to conduct a comprehensive anal
 2.  **Distinct Daily Usage Patterns:**
     * **Members** show high, consistent ridership during **weekdays**, indicating commuting or routine use.
     * **Casual riders** exhibit pronounced peaks on **weekends**, suggesting leisure or recreational usage.
-   
 
 3.  **Casual Riders Take Longer Trips:**
     * On average, casual riders take significantly **longer trips** compared to members across all days of the week. This points to recreational or exploration-based use.
@@ -35,7 +35,7 @@ This project leverages Divvy BikeShare trip data to conduct a comprehensive anal
 4.  **Rideable Type Preference:**
     * Both user types primarily use classic and electric bikes.
     * However, casual riders show a relatively higher proportion of **electric scooter** usage compared to members, hinting at different preferences for short, effortless trips.
-    * *(Optional: Embed your "Users by rideable Type" chart here - Screenshot (99).png)*
+   
 
 ---
 
@@ -47,7 +47,6 @@ This project leverages Divvy BikeShare trip data to conduct a comprehensive anal
 * **Analysis:** Utilized Excel's pivot tables and charting features to identify trends, aggregations, and comparisons across user types, time periods (monthly, daily), and rideable types.
 
 ---
-
 ## 📦 Project Deliverables
 
 * **Full Data Analysis Workbook (Microsoft Excel .xlsx):**
@@ -58,17 +57,15 @@ This project leverages Divvy BikeShare trip data to conduct a comprehensive anal
 
 * **Comprehensive Project Report (Microsoft Word .pdf):**
     * Provides an in-depth discussion of the project scope, detailed methodology, all findings, conclusions, and strategic recommendations.
-    * **Access:** [Divvy_Bike_Analysis_Report.docx](Divvy_Bike_Analysis_Report.pdfx)
+    * **Access:** (Divvy_Bike_Analysis_Report.pdf)[Divvy_Bike_Analysis_Report.pdf]
 
 * **Project Summary Presentation (Microsoft PowerPoint .pptx):**
     * A concise and visually impactful presentation summarizing the key insights and strategic implications.
-    * **Access:** [Divvy_Bike_Key_Findings_Presentation.pptx](Divvy_Bike_Key_Findings_Presentation.pptx)
+    * **Access:** (Divvy_Bike_Key_Findings_Presentation.pptx) [Divvy_Bike_Key_Findings_Presentation.pptx]
 
 * **Raw Data (Optional):**
   *The raw CSVs for January2024 to December2024, link to the folder can be access here: https://divvy-tripdata.s3.amazonaws.com/index.html
-
 ---
-
 ## 🚀 Key Recommendations & Business Implications
 
 
@@ -81,5 +78,5 @@ This project leverages Divvy BikeShare trip data to conduct a comprehensive anal
 
 ## ✍️ Author
 Abiola Adeniyi Adeyemo
-https://www.linkedin.com/in/abiola-adeyemo-85031b135
-[Your Portfolio/Website Link (Optional)]
+[https://www.linkedin.com/in/abiola-adeyemo-85031b135]
+
