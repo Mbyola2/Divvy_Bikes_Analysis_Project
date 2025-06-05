@@ -1,7 +1,5 @@
 # Divvy Bike share Analysis: Understanding Member vs. Casual Riders
 
-![Project Thumbnail/] (Optional: A compelling chart image, e.g., the monthly trend, from your `screenshots/` folder)
-
 ## 🎯 Project Overview
 This project leverages Divvy BikeShare trip data to conduct a comprehensive analysis of how annual members and casual riders utilize the bike-sharing service differently. The insights aim to inform strategic decisions for optimizing operations, marketing, and converting casuals to members for Divvy BikeShare.
 
@@ -19,21 +17,20 @@ This project leverages Divvy BikeShare trip data to conduct a comprehensive anal
 
 ## 💡 Executive Summary & Key Insights
 
-*(This is the most important section for a recruiter. Use bolding, clear language, and embed your most impactful charts as images here. Screenshots (98), (99), (100), (103), (102), (104) provide great material for this.)*
 
 1.  **Members Drive Volume, Casuals Drive Seasonal Peaks:**
     * Members consistently account for **~63%** of all rides, forming the core user base.
     * Casual riders demonstrate extreme seasonality, with usage **surging dramatically in summer months (e.g., July/August)** and dropping significantly in winter.
-    * *(Optional: Embed your "Total number of ride length by month" chart here - Screenshot (98).png or (101).png)*
+   
 
 2.  **Distinct Daily Usage Patterns:**
     * **Members** show high, consistent ridership during **weekdays**, indicating commuting or routine use.
     * **Casual riders** exhibit pronounced peaks on **weekends**, suggesting leisure or recreational usage.
-    * *(Optional: Embed your "User Types by days of the week" chart here - Screenshot (103).png)*
+   
 
 3.  **Casual Riders Take Longer Trips:**
     * On average, casual riders take significantly **longer trips** compared to members across all days of the week. This points to recreational or exploration-based use.
-    * *(Optional: Embed your "Average ride length per weekday" chart here - Screenshot (102).png or (104).png)*
+   
 
 4.  **Rideable Type Preference:**
     * Both user types primarily use classic and electric bikes.
@@ -56,25 +53,24 @@ This project leverages Divvy BikeShare trip data to conduct a comprehensive anal
 * **Full Data Analysis Workbook (Microsoft Excel .xlsx):**
     * Contains all raw data, detailed pivot tables, interactive charts, and behind-the-scenes calculations.
     * **Size:** ~180MB.
-    * **Access:** [Download Divvy Bike Share Analysis Workbook (.xlsx)](https://docs.google.com/spreadsheets/d/1w5MpDWtkH3bndmDN2HgLajPrI9w2YhJg/edit?usp=sharing&ouid=102853951415568760346&rtpof=true&sd=true)
+    * **Access:**(https://docs.google.com/spreadsheets/d/1w5MpDWtkH3bndmDN2HgLajPrI9w2YhJg/edit?usp=sharing&ouid=102853951415568760346&rtpof=true&sd=true) < [Download Divvy Bike Share Analysis Workbook (.xlsx)]
     * *Note: This file is hosted externally on Google Drive due to GitHub's file size limitations for direct repository uploads, ensuring optimal performance and accessibility.*
 
-* **Comprehensive Project Report (Microsoft Word .docx):**
+* **Comprehensive Project Report (Microsoft Word .pdf):**
     * Provides an in-depth discussion of the project scope, detailed methodology, all findings, conclusions, and strategic recommendations.
-    * **Access:** [Divvy_Bike_Analysis_Report.docx](Divvy_Bike_Analysis_Report.docx)
+    * **Access:** [Divvy_Bike_Analysis_Report.docx](Divvy_Bike_Analysis_Report.pdfx)
 
 * **Project Summary Presentation (Microsoft PowerPoint .pptx):**
     * A concise and visually impactful presentation summarizing the key insights and strategic implications.
     * **Access:** [Divvy_Bike_Key_Findings_Presentation.pptx](Divvy_Bike_Key_Findings_Presentation.pptx)
 
 * **Raw Data (Optional):**
-    * If you choose to upload the raw CSVs, link to the folder: [raw_data/](data/)
+  *The raw CSVs for January2024 to December2024, link to the folder can be access here: https://divvy-tripdata.s3.amazonaws.com/index.html
 
 ---
 
 ## 🚀 Key Recommendations & Business Implications
 
-*(Extract the most impactful recommendations from your full report here)*
 
 * **Seasonal Marketing:** Implement aggressive campaigns targeting casual riders in spring/summer to convert them to members.
 * **Dynamic Fleet Management:** Optimize bike rebalancing and availability based on strong seasonal and daily peaks, especially in recreational areas during summer weekends.
